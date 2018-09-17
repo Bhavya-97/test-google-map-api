@@ -32,6 +32,9 @@
     "sw-toolbox": "3.6.0",
     "zone.js": "0.8.18"
   },
+  "script": {
+    "start": "node home.ts"
+  },
   "devDependencies": {
     "@ionic/app-scripts": "3.1.8",
     "typescript": "2.4.2"
